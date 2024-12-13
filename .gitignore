@@ -1,0 +1,8 @@
+
+client/.env
+server/.env
+node_modules
+
+.vscode/*
+
+.prettierrc
